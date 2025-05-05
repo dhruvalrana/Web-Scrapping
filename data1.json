@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Ram",
+        "age": 28,
+        "city": "Avadhpuri"
+    },
+    {
+        "name": "Shyam",
+        "age": 22,
+        "city": "Rajesthan"
+    },
+    {
+        "name": "Krishna",
+        "age": 21,
+        "city": "Gujarat"
+    },
+    {
+        "name": "Dhruval",
+        "age": 23,
+        "city": "Gujarat"
+    },
+    {
+        "name": "Ravi",
+        "age": 25,
+        "city": "Madhya Pradesh"
+    },
+    {
+        "name": "Sita",
+        "age": 24,
+        "city": "Delhi"
+    },
+    {
+        "name": "Gita",
+        "age": 26,
+        "city": "Delhi"
+    },
+    {
+        "name": "Geeta",
+        "age": 27,
+        "city": "Delhi"
+    },
+    {
+        "name": "Radha",
+        "age": 29,
+        "city": "Delhi"
+    },
+    {
+        "name": "Aarti",
+        "age": 30,
+        "city": "Delhi"
+    }
+]
